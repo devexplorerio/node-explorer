@@ -29,4 +29,5 @@ Docs:
   - PATCH version when you make backward compatible bug fixes
   Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-https://semver.org/
+SemVer: https://semver.org/
+SemVer Calculator: https://semver.npmjs.com/
