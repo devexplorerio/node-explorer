@@ -31,3 +31,7 @@ Docs:
 
 SemVer: https://semver.org/
 SemVer Calculator: https://semver.npmjs.com/
+
+5. **Http**
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
